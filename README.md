@@ -1,5 +1,6 @@
 <div align="center">
-### Hi there 👋
+  
+  <b> Hi there 👋  </b>  
 
 🔭 I’m currently Studying ...  
 🌱 I’m currently in class 12th ...  
