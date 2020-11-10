@@ -14,6 +14,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/imshVishal?label=Follow&style=social)](https://github.com/AdityaTD)
 <div class="center">
 <img src="https://github-readme-stats.vercel.app/api?username=imshVishal&count_private=true&show_icons=true&theme=dracula" class="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTD&layout=compact&count_private=true&theme=dracula" class="center">
 </div>
 
 </div>
