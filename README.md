@@ -2,6 +2,10 @@
   
   <b> Hi there 👋  </b>  
 
+<div class="center">
+<img src="https://readme-github-stats.now.sh/api?username=imkrvishal&theme=light&show_icons=true" class="center">
+</div>
+
 🔭 I am Vishal...  
 ⛑  Active Project: [Application Manager Discord Bot](https://imkrvishal.gitbook.io/application-manager)  
 🌱 I’m currently in class 12th ...  
