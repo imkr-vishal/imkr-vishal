@@ -1,7 +1,8 @@
 <div align="center">
   
-  <b> Hi there 👋  </b>  
-
+<b> Hi there 👋  </b>  
+[![Twitter Follow](https://img.shields.io/twitter/follow/imshVishal?label=Follow)](https://twitter.com/adityatripathid)
+[![GitHub followers](https://img.shields.io/github/followers/imshVishal?label=Follow&style=social)](https://github.com/AdityaTD)
 <div class="center">
 <img src="https://readme-github-stats.now.sh/api?username=imkrvishal&theme=light&show_icons=true" class="center">
 </div>
