@@ -3,7 +3,7 @@
   <b> Hi there 👋  </b>  
 
 <div class="center">
-<img src="https://readme-github-stats.now.sh/api?username=VishCo&theme=light&show_icons=true" class="center">
+<img src="https://readme-github-stats.now.sh/api?organization=VishCo&theme=light&show_icons=true" class="center">
 <img src="https://readme-github-stats.now.sh/api?username=imkrvishal&theme=light&show_icons=true" class="center">
 </div>
 
