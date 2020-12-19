@@ -13,7 +13,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/imkr_vishal?label=Follow)](https://twitter.com/imshVishal)
 [![GitHub followers](https://img.shields.io/github/followers/imkr-vishal?label=Follow&style=social)](https://github.com/imshVishal)
 <div class="center">
-<img src="https://github-readme-stats.vercel.app/api?username=imshVishal&count_private=true&show_icons=true&theme=dracula" class="center">  
+<img src="https://github-readme-stats.vercel.app/api?username=imkr-vishal&count_private=true&show_icons=true&theme=dracula" class="center">  
 </div>
 
 </div>
