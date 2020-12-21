@@ -10,8 +10,8 @@
 📫 How to reach me: [Discord: Vishal#2458](https://discord.com/users/726287877897584673)...  
 ⚡ Fun fact: Searching for a mate😅...  
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/imkr_vishal?label=Follow)](https://twitter.com/imshVishal)
-[![GitHub followers](https://img.shields.io/github/followers/imkr-vishal?label=Follow&style=social)](https://github.com/imshVishal)
+[![Twitter Follow](https://img.shields.io/twitter/follow/imkr_vishal?label=Follow)](https://twitter.com/imkr_vishal)
+[![GitHub followers](https://img.shields.io/github/followers/imkr-vishal?label=Follow&style=social)](https://github.com/imkr-vishal)
 <div class="center">
 <img src="https://github-readme-stats.vercel.app/api?username=imkr-vishal&count_private=true&show_icons=true&theme=dracula" class="center">  
 </div>
