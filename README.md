@@ -14,5 +14,5 @@
 <div class="center">
 <img src="https://github-readme-stats.vercel.app/api?username=imkr-vishal&count_private=true&show_icons=true&theme=dracula" class="center">  
 </div>
-<img src="https://git.imshvishal.repl.co/git/45465464646" >
+<img src="https://git.imshvishal.repl.co/git/vishal" >
 </div>
