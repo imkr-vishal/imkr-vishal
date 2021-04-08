@@ -1,6 +1,6 @@
 <div align="center">
 <img alt="" src=https://komarev.com/ghpvc/?username=imkrvishal />
-<b> Hi there 👋  </b>  
+<b> Hi there 👋  </b><br>
 ### About Me 📌
 🔭 I am Vishal...  
 ⛑  Active Project: [Application Manager Discord Bot](https://imkrvishal.gitbook.io/application-manager)  
