@@ -1,5 +1,5 @@
 
-<img alt="" src=https://komarev.com/ghpvc/?username=imkrvishal />
+![Profile](src=https://komarev.com/ghpvc/?username=imkrvishal)
 
 ### About Me 📌
 🔭 I am Vishal...  
