@@ -1,5 +1,5 @@
 
-[![Profile](src=https://komarev.com/ghpvc/?username=imkrvishal)]
+![Profile](https://komarev.com/ghpvc/?username=imkrvishal)
 
 ### About Me 📌
 🔭 I am Vishal...  
