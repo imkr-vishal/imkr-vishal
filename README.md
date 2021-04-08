@@ -1,6 +1,6 @@
-<div align="center">
+
 <img alt="" src=https://komarev.com/ghpvc/?username=imkrvishal />
-<b> Hi there 👋  </b><br>
+
 ### About Me 📌
 🔭 I am Vishal...  
 ⛑  Active Project: [Application Manager Discord Bot](https://imkrvishal.gitbook.io/application-manager)  
@@ -12,9 +12,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/imkr_vishal?label=Follow)](https://twitter.com/imkr_vishal)
 [![GitHub followers](https://img.shields.io/github/followers/imkrvishal?label=Follow&style=social)](https://github.com/imkrvishal)
-<div class="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imkrvishal&theme=calm" class="center">
 <img src="https://github-readme-stats.vercel.app/api?username=imkrvishal&count_private=true&show_icons=true&theme=dracula" class="center">  
-</div>
 
-</div>
