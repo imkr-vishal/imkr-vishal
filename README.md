@@ -4,7 +4,7 @@
 
 ![Profile](https://komarev.com/ghpvc/?username=imkrvishal)
 
-[![Discord](https://discord.c99.nl/widget/theme-1/726287877897584673.png)](https://discord.com/users/726287877897584673)
+[![Discord](https://discord.c99.nl/widget/theme-3/726287877897584673.png)](https://discord.com/users/726287877897584673)
 
 ### About Me 📌
 🔭 I am Vishal...  
