@@ -1,3 +1,5 @@
+<div class="center">
+
 ### Hello There 👋
 
 ![Profile](https://komarev.com/ghpvc/?username=imkrvishal)
@@ -19,3 +21,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imkrvishal&theme=calm" class="center">
 <img src="https://github-readme-stats.vercel.app/api?username=imkrvishal&count_private=true&show_icons=true&theme=dracula" class="center">  
 
+</div>
