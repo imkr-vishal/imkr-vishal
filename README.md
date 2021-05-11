@@ -1,5 +1,3 @@
-
-
 ### Hello There 👋
 
 ![Profile](https://komarev.com/ghpvc/?username=imkrvishal)
@@ -7,7 +5,7 @@
 [![Discord](https://discord.c99.nl/widget/theme-3/726287877897584673.png)](https://discord.com/users/726287877897584673)
 
 ### About Me 📌
-🔭 I am Vishal...  
+🔭 I am Vishal ...  
 💻 [HackerRank Profile](https://www.hackerrank.com/imkrvishal)  
 ⛑ Active Project: [Application Manager Discord Bot](https://imkrvishal.gitbook.io/application-manager)  
 💬 Ask me Anything you want...  
