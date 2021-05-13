@@ -17,7 +17,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/imkrvishal?label=Follow)](https://twitter.com/imkrvishal)
 [![GitHub followers](https://img.shields.io/github/followers/imkrvishal?label=Follow&style=social)](https://github.com/imkrvishal)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrvishal&count_private=true&theme=dark)]
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrvishal&count_private=true&theme=dark)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imkrvishal&theme=calm" class="center">
 <img src="https://github-readme-stats.vercel.app/api?username=imkrvishal&count_private=true&show_icons=true&theme=dracula" class="center">  
